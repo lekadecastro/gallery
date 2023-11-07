@@ -5,5 +5,5 @@ Recriação de layout flexível e responsivo na trilha do Explorer da Rocketseat
 </p>
 
 <p align="center">
-  <img alt="Image" src="./assets/cover.jpg">
+  <img alt="Image" src="https://i.imgur.com/E1Zmsy6.jpg">
 </p>
